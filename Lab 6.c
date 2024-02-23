@@ -1,7 +1,6 @@
 //Array of numbers, two integers, low and high, representing indexes into the array
 
 #include <stdio.h>
-#include <stdlib.h>
 
 //find the index of numbers[value]
 int search(int numbers[], int low, int high, int value) 
